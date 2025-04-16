@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export default function Nav(){
     return(
-        <div className="flex justify-between items-center text-md px-1 font-sans md:px-50 py-5 md:py-1 relative">
+        <div className="flex justify-between items-center text-md px-1 md:px-50 py-5 md:py-1 relative">
             <ul className="flex space-x-1 md:space-x-2 justify-between items-center px-1">
                 <li className="font-medium px-1">
                     <Image 
