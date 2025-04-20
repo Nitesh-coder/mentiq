@@ -22,8 +22,8 @@ export default function Nav(){
                 <li className="hidden md:block px-1 opacity-75"><a href="#pricing" className="text-black hover:text-gray-600 transition-colors">Pricing</a></li>
             </ul>
             <ul className="flex space-x-2 sm:space-x-3 md:space-x-4 justify-between items-center px-1 ml-auto md:ml-0">
-                <li className="px-1"><Link className="text-shadow font-bold opacity-80 text-sm sm:text-base" href={'https://app.mentiq.xyz'} target="_blank" rel="noopener noreferrer">Log in</Link></li>
-                <li className="px-1"><Link className="bg-black text-white opacity-85 font-semibold px-2 sm:px-3 py-1 sm:py-2 rounded-lg text-sm sm:text-base transition-colors hover:bg-gray-800" href={'https://app.mentiq.xyz'} target="_blank" rel="noopener noreferrer">Start Free</Link></li>
+                <li className="px-1"><Link className="text-shadow font-bold opacity-80 text-sm sm:text-base" href={'app'} target="_blank" rel="noopener noreferrer">Log in</Link></li>
+                <li className="px-1"><Link className="bg-black text-white opacity-85 font-semibold px-2 sm:px-3 py-1 sm:py-2 rounded-lg text-sm sm:text-base transition-colors hover:bg-gray-800" href={'app'} target="_blank" rel="noopener noreferrer">Start Free</Link></li>
             </ul>
             <div className="absolute bottom-0 left-0 right-0 h-px bg-current opacity-15 w-full"></div>
         </div>

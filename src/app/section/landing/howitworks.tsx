@@ -28,7 +28,7 @@ export default function HowItWorks(){
                 </li>
             </ul>
             <div className=" flex justify-center py-1">
-                <Link className="px-3 py-2 sm:px-4 sm:py-3 md:px-12 md:py-3 text-sm sm:text-base md:text-lg font-bold opacity-85 bg-black text-white rounded-lg hover:bg-gray-800 transition-colors" href={'https://app.mentiq.xyz'} target="_blank" rel="noopener noreferrer">Go to app</Link>
+                <Link className="px-3 py-2 sm:px-4 sm:py-3 md:px-12 md:py-3 text-sm sm:text-base md:text-lg font-bold opacity-85 bg-black text-white rounded-xl hover:bg-gray-800 transition-colors" href={'https://app.mentiq.xyz'} target="_blank" rel="noopener noreferrer">Start creating - it's free</Link>
             </div>
         </div>
     )
